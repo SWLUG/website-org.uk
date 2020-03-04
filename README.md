@@ -1,7 +1,7 @@
 SWLUG website
 =============
 
-swlug.org website files.
+swlug.org.uk website files.
 
 This repository contains files for the updated, simpler swlug.org website.
 
